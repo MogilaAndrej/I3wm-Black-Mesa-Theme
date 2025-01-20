@@ -18,7 +18,8 @@ i3wm:
 
 Installation:
 	1. install required packages listed above
-	2. Copy .config folder and .bashrc file to /home/YOURUSERNAME
+	2. rename "config" folder to ".config" and "bashrc" file to ".bashrc"
+	3. Copy .config folder and .bashrc file to /home/YOURUSERNAME
 	3. download wallpaper and paste it to /home/YOURUSERNAME
 	4. rename wallpaper file to hl-w.jpg
 	5. log out and log back in
